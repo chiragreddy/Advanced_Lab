@@ -1,0 +1,3 @@
+The javac compiler compiles the java source code to bytecode or .class file
+.class files are called as bytecode. Yes, they are platform independent
+B1, B2, B3 (JVM) is platform dependent
