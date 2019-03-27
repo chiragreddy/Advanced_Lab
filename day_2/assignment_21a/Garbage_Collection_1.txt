@@ -1,0 +1,1 @@
+Two objects are created on the heap - Vehicle and Wheels
